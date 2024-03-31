@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Physics
 
 user_groups:
   - Principal Investigators
@@ -28,9 +28,9 @@ organizations:
 bio: My research interests include quantum simulation and quantum computation.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum simulation and quantum computing
+  - Trapped ions and ultracold atoms
+  - Quantum metrology
 
 education:
   courses:
