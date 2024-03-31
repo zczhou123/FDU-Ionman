@@ -16,6 +16,9 @@ superuser: false
 # Role/position
 role: Professor of Artificial Intelligence
 
+user_groups:
+  - Principal Investigators
+
 # Organizations/Affiliations
 organizations:
   - name: Fudan University

@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Undergraduate
 
+user_groups:
+  - Researchers
+
 # Organizations/Affiliations
 organizations:
   - name: Fudan University
