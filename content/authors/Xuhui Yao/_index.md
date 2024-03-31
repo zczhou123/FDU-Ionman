@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zichun Zhou
+title: Xuhui Yao
 
 # Full Name (for SEO)
-first_name: Zichun
-last_name: Zhou
+first_name: Xuhui
+last_name: Yao
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,6 +66,4 @@ user_groups:
   - Undergraduates
 ---
 
-Zichun Zhou is an undergraduate majoring in physics in Fudan University. His interests include quantum information and quantum simulation.
 
-测试一下中文可不可以用.

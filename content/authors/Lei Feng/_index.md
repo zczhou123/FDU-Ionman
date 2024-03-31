@@ -72,11 +72,7 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+量子模拟、计算和精密测量：基于离子、原子的量子计算和模拟。利用光子和声子对量子比特的自旋进行调控、纠缠。一方面可以构建有效哈密顿量，量子地模拟其他物理体系，另一方面可以通过高保真度的门运算来实现通用量子计算。同时该平台也是良好的精密测量平台，甚至可以给暗物质的搜索划定范围。
